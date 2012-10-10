@@ -16,7 +16,7 @@
 
 #include "Protocols.h"
 
-#include "AtkaSPOT_Laderegler_v1.h"
+#include "Laderegler-Firmware.h"
 #include "SerialCommunication.h"
 #include "Spannungsmessung.h"
 #include "Strommessung.h"

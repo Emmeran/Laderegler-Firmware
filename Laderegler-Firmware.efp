@@ -1,5 +1,5 @@
 [General]
-CPPFILES=AtkaSPOT_Laderegler_v1.ino, PinConfig.h, PinConfig.ino, Protocols.h, SerialCommunication.h, SerialCommunication.ino, Spannungsmessung.h, Spannungsmessung.ino, State.h, Strommessung.h, Strommessung.ino, Temperatur.h, Temperatur.ino
+CPPFILES=Laderegler-Firmware.ino, PinConfig.h, PinConfig.ino, Protocols.h, SerialCommunication.h, SerialCommunication.ino, Spannungsmessung.h, Spannungsmessung.ino, State.h, Strommessung.h, Strommessung.ino, Temperatur.h, Temperatur.ino
 LIBS=/home/emmeran/sketchbook/libraries/OneWire
-BUILDDIR=/devel/EthernetFlasher-build-desktop/AtkaSPOT_Laderegler_v1/build/
+BUILDDIR=build/
 PROFILE=Default
